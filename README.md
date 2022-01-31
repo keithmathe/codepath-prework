@@ -1,10 +1,9 @@
 ## PreWork App
 
 ### App Description
-`TODO://` Displayed text changes color when button is pressed
+Displayed text changes color when button is pressed
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://imgur.com/PrI8FkR.gif" width=200><br>
 
